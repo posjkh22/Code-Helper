@@ -1,0 +1,366 @@
+t1_fnc1:
+t1_fnc1.var_t1_func1
+llvm.dbg.declare:
+No Static Variables
+free:
+No Static Variables
+t2_fnc1:
+t2_fnc1.var_t2_func1
+shared_func2:
+No Static Variables
+task1:
+No Static Variables
+malloc:
+No Static Variables
+task2:
+No Static Variables
+main:
+No Static Variables
+pthread_create:
+No Static Variables
+pthread_join:
+No Static Variables
+fopen:
+No Static Variables
+llvm.dbg.declare:
+No Static Variables
+fclose:
+No Static Variables
+fnc1:
+No Static Variables
+main:
+No Static Variables
+fopen:
+No Static Variables
+llvm.dbg.declare:
+No Static Variables
+fclose:
+No Static Variables
+fnc3:
+No Static Variables
+fnc2:
+No Static Variables
+fnc1:
+No Static Variables
+main:
+No Static Variables
+t1_fnc1:
+t1_fnc1.var_t1_func1
+llvm.dbg.declare:
+No Static Variables
+free:
+No Static Variables
+t2_fnc1:
+t2_fnc1.var_t2_func1
+shared_func2:
+No Static Variables
+task1:
+No Static Variables
+malloc:
+No Static Variables
+task2:
+No Static Variables
+main:
+No Static Variables
+pthread_create:
+No Static Variables
+pthread_join:
+No Static Variables
+t1_fnc1:
+t1_fnc1.var_t1_func1
+llvm.dbg.declare:
+No Static Variables
+free:
+No Static Variables
+t2_fnc1:
+t2_fnc1.var_t2_func1
+shared_func2:
+No Static Variables
+task1:
+No Static Variables
+malloc:
+No Static Variables
+task2:
+No Static Variables
+main:
+No Static Variables
+pthread_create:
+No Static Variables
+pthread_join:
+No Static Variables
+fnc1:
+No Static Variables
+llvm.dbg.declare:
+No Static Variables
+fnc2:
+No Static Variables
+fnc3:
+No Static Variables
+free:
+No Static Variables
+main:
+No Static Variables
+malloc:
+No Static Variables
+fnc1:
+No Static Variables
+llvm.dbg.declare:
+No Static Variables
+main:
+No Static Variables
+malloc:
+No Static Variables
+free:
+No Static Variables
+fnc1:
+No Static Variables
+llvm.dbg.declare:
+No Static Variables
+main:
+No Static Variables
+malloc:
+No Static Variables
+free:
+No Static Variables
+fnc1:
+No Static Variables
+llvm.dbg.declare:
+No Static Variables
+fnc2:
+No Static Variables
+fnc3:
+No Static Variables
+free:
+No Static Variables
+c1:
+No Static Variables
+c2:
+No Static Variables
+c3:
+No Static Variables
+c4:
+No Static Variables
+c5:
+No Static Variables
+main:
+No Static Variables
+malloc:
+No Static Variables
+fnc1:
+No Static Variables
+llvm.dbg.declare:
+No Static Variables
+fnc2:
+No Static Variables
+fnc3:
+No Static Variables
+free:
+No Static Variables
+c1:
+No Static Variables
+c2:
+No Static Variables
+c3:
+No Static Variables
+c4:
+No Static Variables
+c5:
+No Static Variables
+main:
+No Static Variables
+malloc:
+No Static Variables
+t1_fnc1:
+t1_fnc1.var_t1_func1
+llvm.dbg.declare:
+No Static Variables
+free:
+No Static Variables
+t2_fnc1:
+t2_fnc1.var_t2_func1
+shared_func2:
+No Static Variables
+task1:
+No Static Variables
+malloc:
+No Static Variables
+task2:
+No Static Variables
+main:
+No Static Variables
+pthread_create:
+No Static Variables
+pthread_join:
+No Static Variables
+fnc1:
+No Static Variables
+llvm.dbg.declare:
+No Static Variables
+fnc2:
+No Static Variables
+fnc3:
+No Static Variables
+free:
+No Static Variables
+c1:
+No Static Variables
+c2:
+No Static Variables
+c3:
+No Static Variables
+c4:
+No Static Variables
+c5:
+No Static Variables
+main:
+No Static Variables
+malloc:
+No Static Variables
+fnc1:
+No Static Variables
+llvm.dbg.declare:
+No Static Variables
+fnc2:
+No Static Variables
+fnc3:
+No Static Variables
+free:
+No Static Variables
+c1:
+No Static Variables
+c2:
+No Static Variables
+c3:
+No Static Variables
+c4:
+No Static Variables
+c5:
+No Static Variables
+main:
+No Static Variables
+malloc:
+No Static Variables
+fnc1:
+No Static Variables
+llvm.dbg.declare:
+No Static Variables
+fnc2:
+No Static Variables
+fnc3:
+No Static Variables
+free:
+No Static Variables
+c1:
+No Static Variables
+c2:
+No Static Variables
+c3:
+No Static Variables
+main:
+No Static Variables
+malloc:
+No Static Variables
+fnc1:
+No Static Variables
+llvm.dbg.declare:
+No Static Variables
+fnc2:
+No Static Variables
+fnc3:
+No Static Variables
+free:
+No Static Variables
+c1:
+No Static Variables
+c2:
+No Static Variables
+c3:
+No Static Variables
+main:
+No Static Variables
+malloc:
+No Static Variables
+fnc1:
+No Static Variables
+llvm.dbg.declare:
+No Static Variables
+fnc2:
+No Static Variables
+fnc3:
+No Static Variables
+free:
+No Static Variables
+c1:
+No Static Variables
+c2:
+No Static Variables
+c3:
+No Static Variables
+main:
+No Static Variables
+malloc:
+No Static Variables
+t1_fnc1:
+t1_fnc1.var_t1_func1
+llvm.dbg.declare:
+No Static Variables
+free:
+No Static Variables
+t2_fnc1:
+t2_fnc1.var_t2_func1
+shared_func2:
+No Static Variables
+task1:
+No Static Variables
+malloc:
+No Static Variables
+task2:
+No Static Variables
+main:
+No Static Variables
+pthread_create:
+No Static Variables
+pthread_join:
+No Static Variables
+fopen:
+No Static Variables
+llvm.dbg.declare:
+No Static Variables
+fclose:
+No Static Variables
+fnc3:
+No Static Variables
+fnc2:
+No Static Variables
+fnc1:
+No Static Variables
+main:
+No Static Variables
+fopen:
+No Static Variables
+llvm.dbg.declare:
+No Static Variables
+fclose:
+No Static Variables
+fnc3:
+No Static Variables
+fnc2:
+No Static Variables
+fnc1:
+No Static Variables
+main:
+No Static Variables
+fopen:
+No Static Variables
+llvm.dbg.declare:
+No Static Variables
+fclose:
+No Static Variables
+fnc3:
+No Static Variables
+fnc2:
+No Static Variables
+fnc1:
+No Static Variables
+main:
+No Static Variables

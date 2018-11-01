@@ -1,0 +1,381 @@
+t1_fnc1:
+No Global Variables
+llvm.dbg.declare:
+No Global Variables
+free:
+No Global Variables
+t2_fnc1:
+No Global Variables
+shared_func2:
+No Global Variables
+task1:
+IntegerGlobalVariable
+IntegerGlobalVariable
+malloc:
+No Global Variables
+task2:
+No Global Variables
+main:
+No Global Variables
+pthread_create:
+No Global Variables
+pthread_join:
+No Global Variables
+fopen:
+a
+a
+llvm.dbg.declare:
+No Global Variables
+fclose:
+a
+a
+fnc1:
+No Global Variables
+main:
+a
+fopen:
+a
+a
+llvm.dbg.declare:
+No Global Variables
+fclose:
+a
+a
+fnc3:
+No Global Variables
+fnc2:
+No Global Variables
+fnc1:
+No Global Variables
+main:
+a
+t1_fnc1:
+No Global Variables
+llvm.dbg.declare:
+No Global Variables
+free:
+No Global Variables
+t2_fnc1:
+No Global Variables
+shared_func2:
+No Global Variables
+task1:
+IntegerGlobalVariable
+IntegerGlobalVariable
+malloc:
+No Global Variables
+task2:
+No Global Variables
+main:
+No Global Variables
+pthread_create:
+No Global Variables
+pthread_join:
+No Global Variables
+t1_fnc1:
+No Global Variables
+llvm.dbg.declare:
+No Global Variables
+free:
+No Global Variables
+t2_fnc1:
+No Global Variables
+shared_func2:
+No Global Variables
+task1:
+IntegerGlobalVariable
+IntegerGlobalVariable
+malloc:
+No Global Variables
+task2:
+No Global Variables
+main:
+No Global Variables
+pthread_create:
+No Global Variables
+pthread_join:
+No Global Variables
+fnc1:
+No Global Variables
+llvm.dbg.declare:
+No Global Variables
+fnc2:
+No Global Variables
+fnc3:
+No Global Variables
+free:
+No Global Variables
+main:
+No Global Variables
+malloc:
+No Global Variables
+fnc1:
+No Global Variables
+llvm.dbg.declare:
+No Global Variables
+main:
+No Global Variables
+malloc:
+No Global Variables
+free:
+No Global Variables
+fnc1:
+No Global Variables
+llvm.dbg.declare:
+No Global Variables
+main:
+No Global Variables
+malloc:
+No Global Variables
+free:
+No Global Variables
+fnc1:
+No Global Variables
+llvm.dbg.declare:
+No Global Variables
+fnc2:
+No Global Variables
+fnc3:
+No Global Variables
+free:
+No Global Variables
+c1:
+No Global Variables
+c2:
+No Global Variables
+c3:
+No Global Variables
+c4:
+No Global Variables
+c5:
+No Global Variables
+main:
+No Global Variables
+malloc:
+No Global Variables
+fnc1:
+No Global Variables
+llvm.dbg.declare:
+No Global Variables
+fnc2:
+No Global Variables
+fnc3:
+No Global Variables
+free:
+No Global Variables
+c1:
+No Global Variables
+c2:
+No Global Variables
+c3:
+No Global Variables
+c4:
+No Global Variables
+c5:
+No Global Variables
+main:
+No Global Variables
+malloc:
+No Global Variables
+t1_fnc1:
+No Global Variables
+llvm.dbg.declare:
+No Global Variables
+free:
+No Global Variables
+t2_fnc1:
+No Global Variables
+shared_func2:
+No Global Variables
+task1:
+IntegerGlobalVariable
+IntegerGlobalVariable
+malloc:
+No Global Variables
+task2:
+No Global Variables
+main:
+No Global Variables
+pthread_create:
+No Global Variables
+pthread_join:
+No Global Variables
+fnc1:
+No Global Variables
+llvm.dbg.declare:
+No Global Variables
+fnc2:
+No Global Variables
+fnc3:
+No Global Variables
+free:
+No Global Variables
+c1:
+No Global Variables
+c2:
+No Global Variables
+c3:
+No Global Variables
+c4:
+No Global Variables
+c5:
+No Global Variables
+main:
+No Global Variables
+malloc:
+No Global Variables
+fnc1:
+No Global Variables
+llvm.dbg.declare:
+No Global Variables
+fnc2:
+No Global Variables
+fnc3:
+No Global Variables
+free:
+No Global Variables
+c1:
+No Global Variables
+c2:
+No Global Variables
+c3:
+No Global Variables
+c4:
+No Global Variables
+c5:
+No Global Variables
+main:
+No Global Variables
+malloc:
+No Global Variables
+fnc1:
+No Global Variables
+llvm.dbg.declare:
+No Global Variables
+fnc2:
+No Global Variables
+fnc3:
+No Global Variables
+free:
+No Global Variables
+c1:
+No Global Variables
+c2:
+No Global Variables
+c3:
+No Global Variables
+main:
+No Global Variables
+malloc:
+No Global Variables
+fnc1:
+No Global Variables
+llvm.dbg.declare:
+No Global Variables
+fnc2:
+No Global Variables
+fnc3:
+No Global Variables
+free:
+No Global Variables
+c1:
+No Global Variables
+c2:
+No Global Variables
+c3:
+No Global Variables
+main:
+No Global Variables
+malloc:
+No Global Variables
+fnc1:
+No Global Variables
+llvm.dbg.declare:
+No Global Variables
+fnc2:
+No Global Variables
+fnc3:
+No Global Variables
+free:
+No Global Variables
+c1:
+No Global Variables
+c2:
+No Global Variables
+c3:
+No Global Variables
+main:
+No Global Variables
+malloc:
+No Global Variables
+t1_fnc1:
+No Global Variables
+llvm.dbg.declare:
+No Global Variables
+free:
+No Global Variables
+t2_fnc1:
+No Global Variables
+shared_func2:
+No Global Variables
+task1:
+IntegerGlobalVariable
+IntegerGlobalVariable
+malloc:
+No Global Variables
+task2:
+No Global Variables
+main:
+No Global Variables
+pthread_create:
+No Global Variables
+pthread_join:
+No Global Variables
+fopen:
+a
+a
+llvm.dbg.declare:
+No Global Variables
+fclose:
+a
+a
+fnc3:
+No Global Variables
+fnc2:
+No Global Variables
+fnc1:
+No Global Variables
+main:
+a
+fopen:
+a
+a
+llvm.dbg.declare:
+No Global Variables
+fclose:
+a
+a
+fnc3:
+No Global Variables
+fnc2:
+No Global Variables
+fnc1:
+No Global Variables
+main:
+a
+fopen:
+a
+a
+llvm.dbg.declare:
+No Global Variables
+fclose:
+a
+a
+fnc3:
+No Global Variables
+fnc2:
+No Global Variables
+fnc1:
+No Global Variables
+main:
+a
